@@ -1,3 +1,5 @@
+# linux
+
 // 2条命令都是在dev执行
 scp root@coin05:/root/liangjisheng/Apollo.tar.gz .
 
